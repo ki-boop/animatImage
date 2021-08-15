@@ -1,0 +1,306 @@
+  @media only screen and (max-width: 1025px)  {
+    p{
+      height: 0px;
+    }
+    #top{
+      margin-left: 100px;
+    }
+    #right{
+      margin-left: 200px;
+    }
+
+    .head{
+      width: 100%;
+      height: 500px;
+      background-image: url("Rectangle 433.jpg");
+      background-repeat: no-repeat;
+    }
+    .right{
+      font-size: 20px;
+      margin-right: 70px;
+    }
+    .menu{
+      font-size: 18px;
+    }
+    .switch{
+      width: 120px;
+      left: 100px; 
+      }
+
+    .container{
+      width: 1024px;
+    }
+    .container2{
+      width: 1024px;
+      height: 500px;
+      margin-top: 100px;
+
+    }
+.body{
+  overflow-x: hidden;
+}
+    .sad{
+      margin-top: 20px;
+    }
+    .Cappadocia{
+      width: 500px;
+      height: 100px;
+      font-size: 100px;
+      margin-top: -10px;
+    }
+    .tour{
+      font-size: 25px;
+      margin-top: 90px;
+      line-height: 66px;
+      margin-left: 440px;
+    }
+    .Fairy_h{
+      font-size: 55px;
+      margin-left:200px;
+      height: 50px;
+    }
+    #country{
+      margin-top: -20px;
+      font-size: 12px;
+      margin-left: 100px;
+    }
+    #img1{
+      margin-top: 50px;
+      height: 400px;
+      width: 100%;
+    }
+    .text1{
+      margin-top: 70px;
+      width: 100%;
+      margin-right: 20px;
+      font-size: 12px;
+      line-height: 16px;
+    }
+    p{
+      height: 5px;
+    }
+    .container3{
+      margin-left: 120px;
+      height: 500px;
+    }
+    .trip{
+      height: 120px;
+      margin-top: -100px;
+      font-size: 55px;
+    }
+    #imgtrip{
+      height: 650px;
+      width:520px;
+    }
+    #t2{
+      font-size: 12px;
+      width: 300px;
+      line-height: 16px;
+      margin-top: -30px;
+      height: 600px;
+    }
+    #marsh{
+      font-size: 12px;
+      margin-left: 140px;
+      margin-top: -50px;
+    }
+    #zag2 {
+      height: 5px;
+    }
+    .butt{
+      width: 80px;
+      height: 10px;
+      border: 1px solid #E2AB3F;
+    margin-top: 25px;
+    padding-top: 6px;
+    padding-bottom: 11px;
+    padding-left: 34px;
+    padding-right: 35px;
+    }
+
+    .cont{
+      height: 600px;
+      margin-top: 230px;
+    }
+    .Hotel{
+      margin-top: -200px;
+      font-size: 55px;
+      margin-left: 50px;
+      height:100px;
+    }
+    #hot{
+        font-size: 12px;
+        margin-left: 90px;
+    }
+    #img3{
+      height: 100%;
+      width: 300px;
+      margin-left: -50px;
+    }
+    #ph{
+      height: 90px;
+      width: 170px;
+    }
+    #t3{
+      margin-left: 30px;
+      margin-right: 150px;
+      line-height: 15px;
+      width: 400px;
+    }
+    .sad{
+      height: 455px;
+    }
+    .imgG{
+      margin-right: 25px;
+
+    }
+    #Photogalary1{
+      margin-top: 40px;
+    }
+    .Photogalary{
+      margin-top: 30px;
+    }
+
+    .price{
+      font-size: 55px;
+      margin-left: 120px;
+    }
+    .usl{
+      font-size: 12px;
+      margin-left: 60px;
+    }
+    .TXT{
+      width: 1024px;
+      margin-top: -70px;
+    }
+    .TXT2{
+      margin-left: 120px;
+      font-size: 12px;
+      height: 300px;
+
+    }
+    .txt{
+      font-size: 12px;
+      width: 350px;
+        height: 250px;
+
+    }
+    .txt2{
+      font-size: 12px;
+      margin-left: 20px;
+      width: 200px;
+    }
+    h3{
+      height: 10px;
+      margin-bottom: 10px;
+    }
+    #bal1{
+      height:60px;
+      width: 40px;
+    }
+    #bal2{
+      height:60px;
+      width: 40px;
+
+    }
+    #bal3{
+      height:150px;
+      width: 110px;
+    }
+    .balloon3{
+      margin-top: 60px;
+      margin-left: 40px;
+    }
+    .balloon2{
+      margin-top: 250px;
+    }
+    .balloon1{
+      margin-top: 120px;
+    }
+    .date{
+      font-size: 55px;
+      width: 200px;
+    }
+    .rus{
+      font-size: 12px;
+      margin-left: 120px;
+      width: 200px;
+    }
+    .dol{
+      margin-top: 30px;
+        font-size: 55px;
+     margin-left: 290px;
+     width: 200px;
+    }
+    .r{
+      font-size: 12px;
+      margin-left: 80px;
+    }
+    .conter2{
+      height: 400px;
+
+    }
+  .za{
+      font-size: 14px;
+      height: 20px;
+      margin-top: 90px;
+      margin-bottom: 30px;
+
+  }
+  .form{
+    margin-left: 150px;
+  }
+  input{
+    height: 20px;
+    width: 200px;
+    font-size: 10px;
+    padding-left: 15px;
+    border: 1px solid #E2AB3F;
+  }
+
+  .butt2{
+    margin-top: 20px;
+      font-size: 12px;
+      height: 15px;
+      width: 130px;
+      padding-top: 0px;
+      padding-bottom: 10px;
+      padding-left: 35px;
+      padding-right: 15px;
+      border: 1px solid #E2AB3F;
+
+  }
+  .im{
+    height: 500px;
+    width: 450px;
+    margin-right: 100px;
+  }
+  #im{
+    height: 480px;
+    width: 400px;
+
+  }
+  .page{
+    width: auto;
+    height: 600px;
+  }
+
+  .end{
+    width: 1024px;
+    height: 720px;
+  }
+  .mail{
+    margin-left: 60px;
+
+
+  }
+  .dream{
+    width: auto;
+    font-size: 86px;
+    margin-left: 80px;
+    margin-top: 200px;
+    font-size: 66px;
+  }
+    }
+
+  

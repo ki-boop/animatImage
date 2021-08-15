@@ -1,0 +1,107 @@
+@media only screen and (max-width: 737px) and (min-width: 414px) {
+#top{
+  margin-left: 50px;
+}
+#right{
+  position: absolute;
+  margin-left: 550px;
+}
+.switch{
+  width: 100px;
+  top: 2px;
+  margin-top: 0px;
+}
+input:checked + .sliderD {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+p{
+  height: 2px;
+}
+.head{
+  height: 414px;
+}
+.Cappadocia{
+  margin-left: 170px;
+  margin-top: -50px;
+}
+.Fairy_h{
+  margin-left: 120px;
+}
+#img1{
+  width: 380px;
+  height: auto;
+}
+.container2{
+  width: 737px;
+}
+menu{
+  margin-left: 15px;
+}
+
+.text1{
+  font-size: 12px;
+  line-height: 12px;
+  width: auto;
+  height: auto;
+margin-top:60px;
+  margin-left: 10px;
+}
+.container3{
+  margin-left: 60px;
+}
+#imgtrip{
+  width: 377px;
+  height: 625px;
+}
+.TXT2{
+  margin-left: 20px;
+}
+.txt2{
+  margin-left: 0px;
+}
+.balloon1{
+  margin-left:10px;
+  margin-top: 140px;
+}
+.balloon2{
+  margin-left:10px;
+}
+.balloon3{
+  margin-left:15px;
+}
+.page{
+  width:  736px;
+  }
+  .date{
+    margin-left: 60px;
+  }
+  .dol{
+      margin-left: 160px;
+  }
+  .form{
+    margin-left: 60px;
+  }
+  #im{
+    width: 300px;
+    height: auto;
+  }
+  .end{
+    width: 736px;
+    height: auto;
+  }
+  .mail{
+    width: 360px;
+    margin-left: 20px;
+  }
+  .dream{
+    text-align: center;
+    width: 200px;
+    margin-left: 100px;
+  }
+}

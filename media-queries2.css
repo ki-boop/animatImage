@@ -1,0 +1,159 @@
+@media only screen and (max-width: 1367px) and (min-width:1025px) {
+  .body{
+    overflow-x: hidden;
+  }
+  #right{
+    margin-left: 120px;
+  }
+  #top{
+    margin-left: 120px;
+  }
+.head{
+  width: 1366px;
+  height: 770px;
+  background-image: url("Rectangle 4333.png");
+}
+  .container{
+      margin-top: 35px;
+      width: 1366px;
+  }
+  .menu{
+    font-size: 30px;
+  }
+  .switch{
+    width: 100px;
+    left: 80px;
+  }
+  .right{
+      font-size: 30px;
+      margin-right: 60px;
+  }
+  .Cappadocia{
+    margin-top: 100px;
+    font-size: 200px;
+    margin-left: 250px;
+  }
+.tour{
+  margin-left: 620px;
+  margin-top: -100px;
+}
+.Fairy_h{
+  margin-left: 120px;
+}
+#img1{
+  height: 550px;
+  width:660px;
+}
+.text1{
+  width: 550px;
+  font-size: 15px;
+  margin-top: 10px;
+  line-height: 18px;
+}
+.sad{
+  margin-top: 100px;
+}
+.container2{
+  height: 500px;
+}
+
+.container3{
+  margin-left: 220px;
+}
+.sad{
+    margin-top: 100px;
+    width: 1366px;
+}
+#t2{
+  width: 500px;
+  margin-top: 40px;
+  line-height: 20px;
+  font-size: 15px;
+  height: 760px;
+}
+#imgtrip{
+  margin-top: 20px;
+  height: 760px;
+  width: auto;
+}
+.butt{
+  width: 120px;
+}
+.cont{
+  margin-top: 400px;
+}
+.container4{
+  margin-left: 150px;
+}
+
+.Hotel{
+  margin-left: 0px;
+}
+.img2{
+  height: 700px;
+}
+#t3{
+  margin-left: 30px;
+}
+#img3{
+  height: 610px;
+  width: auto;
+}
+#Photogalary1{
+  margin-top: 42px;
+}
+.Photogalary{
+  width: 550px;
+}
+#ph{
+  width: 230px;
+  height: auto;
+}
+.conter{
+  margin-left: 150px;
+  margin-top: 200px;
+}
+.TXT2{
+  font-size: 12px;
+  line-height: 18px;
+}
+.txt{
+  width: 500px;
+}
+.balloon1{
+  margin-top: 150px;
+  margin-left: -50px;
+}
+.balloon2{
+  margin-left: 10px;
+  margin-top: 300px;
+}
+#bal3{
+  width: 150px;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.conter2{
+  width: 600px;
+}
+.date{
+  margin-left: 120px;
+}
+.dol{
+  margin-left: 200px;
+}
+.end{
+  width: 1366px;
+  height: 720px;;
+}
+.mail{
+  margin-left: 100px;
+  margin-top: 60px;
+}
+.dream{
+  margin-top: 200px;
+}
+
+
+  }
